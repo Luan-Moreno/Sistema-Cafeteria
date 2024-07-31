@@ -3,7 +3,7 @@
 -  É um projeto desenvolvido para o primeiro semestre do curso de Ciência da Computação no Centro Universitário FEI. Este sistema permite que clientes façam e gerenciem seus pedidos de forma prática e eficiente.
 -  O sistema foi desenvolvido utilizando Python base, com ênfase em arrays para manipulação de dados e integração com arquivos externos. Os dados dos clientes são armazenados permanentemente, a menos que o cliente solicite a exclusão explícita das informações.
 
-Funcionalidades
+## Funcionalidades
 
     Fazer um Pedido: Os clientes podem criar novos pedidos, selecionando itens do menu.
     
